@@ -1,0 +1,23 @@
+{
+    "nome": "Everton Richard",
+    "cidade": "São Paulo",
+    "Telefone": 968128231,
+    "livros_favoritos": [ 
+        "meuromance",
+        "Codigo limpo",
+        "Essencialismo"
+    ],
+    "hobbies": {
+        "semana": "Patinação",
+        "Fim_de_semana":{
+            "sabado": "cinema",
+            "domingo":"parque",
+            "outros": [
+                "caminhada",
+                "volei",
+                "netflix"
+            ]
+        }
+    }
+    
+}
